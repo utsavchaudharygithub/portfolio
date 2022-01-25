@@ -1,5 +1,7 @@
 Hereby is my website/Portfolio,
 all the buttons hyperlinks to different sites and emails are reachables as well.
+please use index.html to get connected to my site.
+
 
 <img width="1163" alt="Screen Shot 2022-01-25 at 12 17 43 AM" src="https://user-images.githubusercontent.com/91306158/150938830-22b914d4-a046-4d82-ba1f-c945ed72d81e.png">
 <img width="1161" alt="Screen Shot 2022-01-25 at 12 18 01 AM" src="https://user-images.githubusercontent.com/91306158/150938846-535d911a-3ff0-4096-a465-4626f9c11d9a.png">
